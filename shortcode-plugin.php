@@ -1,7 +1,8 @@
 <?php
 /**
  * Plugin Name: Social Icons Shortcode
- * Plugin URI: https://heyluna.co/social-icons-shortcode
+ * Plugin URI: https://github.com/heyluna/shortcode-plugin
+ * Description: Display your social media icons with a shortcode, when using a Hey Luna theme.
  * Version: 1.0.0
  * Author: Hey Luna
  * Author URI: https://heyluna.co
